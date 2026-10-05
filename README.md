@@ -2,8 +2,7 @@
 
 Hands-on Azure lab built for AZ-104 (Microsoft Azure Administrator) preparation. It targets **"Create and configure an Azure App Service,"** the #2 weak area from my first exam attempt, with a Linux App Service plan, a web app deployed from GitHub through a staging slot, a zero-downtime slot swap proven with a live request loop, CPU-based autoscale that really scaled out and back in, and a custom backup with a retention policy that was restored into a slot.
 
-> Related repos: [VM-RBAC-Config](https://github.com/waynethedon/VM-RBAC-Config) (Project 1) · [VNet-Storage-Config](https://github.com/waynethedon/VNet-Storage-Config) (Project 2) · [Monitoring-Backup-Config](https://github.com/waynethedon/Monitoring-Backup-Config) (Project 3) · [Entra-Identity-Config](https://github.com/waynethedon/Entra-Identity-Config) (Project 4) · [Storage-Recovery-Config](https://github.com/waynethedon/Storage-Recovery-Config) (Project 6)
-
+> Related repos: [VM-RBAC-Config](https://github.com/dwaynec-cloud/VM-RBAC-Config) (Project 1) · [VNet-Storage-Config](https://github.com/dwaynec-cloud/VNet-Storage-Config) (Project 2) · [Monitoring-Backup-Config](https://github.com/dwaynec-cloud/Monitoring-Backup-Config) (Project 3) · [Entra-Identity-Config](https://github.com/dwaynec-cloud/Entra-Identity-Config) (Project 4) · [Storage-Recovery-Config](https://github.com/dwaynec-cloud/Storage-Recovery-Config) (Project 6)
 ---
 
 ## Architecture
